@@ -1,2 +1,2 @@
 <?php
-echo "<h1>Obrigado. Tudo certo. Formulário enviado!</h1>";
+echo "<h1>Obrigado. Tudo certo. Formulário enviado! e git funcionando!!!</h1>";
